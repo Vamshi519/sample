@@ -4,7 +4,7 @@ public class SampleServlet {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Inside sample project and using git creating branch");
+		System.out.println("Inside sample project and using git creating branch new master");
 	}
 
 }
