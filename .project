@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Maven Practice</name>
+=======
+	<name>myFirstWebApp</name>
+>>>>>>> 71efd185278072a4c1cfd205c98272d8fc9a24ee
 	<comment></comment>
 	<projects>
 	</projects>
